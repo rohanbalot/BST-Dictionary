@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1491450224 source:d:\4th sem\dict\main.cpp
+	<iostream>
+	<iomanip>
+	<new>
+	<string>
+	<fstream>
+	<queue>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<cmath>
+	<cctype>
+
+1491445827 source:d:\4th sem\dict\untitled1.cpp
+
