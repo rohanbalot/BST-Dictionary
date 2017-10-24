@@ -24,7 +24,7 @@
 
 using namespace std;
 
-// Defination for Binary Search Tree Node
+// Definition for Binary Search Tree Node
 struct node {
     char word[20];
     char meaning[40];
@@ -62,7 +62,7 @@ void preorder(node *root) {
     }
 }
 
-// Inrder Traversal of Binary Search Tree
+// Inorder Traversal of Binary Search Tree
 void inorder(node *root) {
     if(root) {
         inorder(root->left);
