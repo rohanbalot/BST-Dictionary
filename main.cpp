@@ -2,8 +2,7 @@
 
         => Dictionary using BST <=
         -> Rohan Balot 335/CO/15
-        -> Sahil Gupta 338/CO/15
-
+        -> boo
 ***************************************/
 
 // C++ Headers
