@@ -1,2 +1,2 @@
 # BST-Dictionary
-Dictionary using Binary Search Tree
+Dictionary using BST. :)
