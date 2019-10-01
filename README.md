@@ -1,2 +1,2 @@
 # BST-Dictionary
-Dictionary using BST. :)
+Dictionary using BST :)
